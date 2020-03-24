@@ -1,8 +1,11 @@
 # DQN by Matlab
 DQN实现避障控制
-###实现环境：
+
+##实现环境：
+
 Matlab 2019a及以上，因为使用了deeplearning toolbox搭建网络
-###结果
+##结果
+
 小地图：  
 ![](./image/simplemap.jpg)  
 
@@ -23,5 +26,6 @@ Matlab 2019a及以上，因为使用了deeplearning toolbox搭建网络
 基于优先级采样的DQN算法：  
 ![](./image/optimizedDQN.jpg)
 
-DQN + 人工势场：
+DQN + 人工势场：  
+
 ![](./image/DQN_with_potential_field.jpg)
